@@ -1,3 +1,7 @@
+## Parcours français
+
+Un [guide en cinq chapitres](docs/fr/) analyse Base L2, permissions, paiements, ERC-8021 et agents.
+
 # Base Skills
 
 ![Base](logo.webp)
